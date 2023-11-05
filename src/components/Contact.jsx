@@ -37,13 +37,13 @@ const Contact = () => {
 
     emailjs
       .send(
-        service_f0393fd,
-        template_bb9b319,
+        service_7lq1k4h,
+        ttemplate_bb9b319,
         {
           from_name: form.name,
           to_name: "Aero Innovation",
           from_email: form.email,
-          to_email: "contect.aeroInnovation@gmail.com",
+          to_email: "contect.aeroinnovation@gmail.com",
           message: form.message,
         },
         VoNQnQeYkYTIgtZRB

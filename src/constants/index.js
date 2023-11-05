@@ -243,7 +243,7 @@ const projects = [
       },
     ],
     image: despathealthcare,
-    source_code_link: "hhttps://despathealthcare.com",
+    source_code_link: "https://despathealthcare.com",
   },
   {
     name: "Trip Guide",
