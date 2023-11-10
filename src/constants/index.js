@@ -178,26 +178,26 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "I thought it was impossible to make a website as beautiful as our product, but Aero proved me wrong.",
+    name: "Fardeen Khan",
+    designation: "Solution Analyst",
+    company: "Thomson Reuters",
+    // image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      "I've never met a company that truly cares about their clients' success like Aero Innovation does.",
+    name: "Chaitali Satardekar",
+    designation: "CEO",
+    company: "Codesky",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+      "After Aero Innovation optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    name: "Nitish Pal",
+    designation: "Owner",
+    company: "RRL",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
@@ -246,7 +246,7 @@ const projects = [
     source_code_link: "https://despathealthcare.com",
   },
   {
-    name: "Trip Guide",
+    name: "Sakhi - PCOS Detection System",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
@@ -264,7 +264,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://youtu.be/l79_Ldq4bLU?feature=shared",
   },
 ];
 

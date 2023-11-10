@@ -62,7 +62,7 @@ const Experience = () => {
           What Aero Innovation can do for you
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
-          Our Services.
+          Our Services
         </h2>
       </motion.div>
 
